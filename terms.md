@@ -59,7 +59,7 @@ Refunds are governed by **Apple's refund policy** and are handled directly throu
 The App operates **entirely offline**. We do not collect, transmit, store, or have access to any of your personal data or app contents. All data is stored locally on your device.
 
 For details see the **Privacy Policy** at:
-`https://<your-domain>/privacy`
+`https://jefferystudio.github.io/notch-support/privacy`
 
 ---
 
