@@ -131,7 +131,7 @@ If any provision of these Terms is found unenforceable, the remaining provisions
 
 For questions about these Terms:
 
-**Email:** <your-email>
+**Email:** jefferystudio30@gmail.com
 **Developer:** Jefferystudio
 
 ---
